@@ -4,7 +4,7 @@ This project lets you upload multiple PDF documents and ask questions about thei
 It processes your PDFs, embeds them, stores them in a vector database, and answers questions using a conversational retrieval chain.
 
 
-#🚀 Features
+# 🚀 Features
 
 📄 Upload multiple PDF documents
 🔍 Automatic PDF text extraction
@@ -17,7 +17,7 @@ It processes your PDFs, embeds them, stores them in a vector database, and answe
 🎨 Custom chat bubbles for user & bot messages
 
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Component	Library / Model
 UI	Streamlit
