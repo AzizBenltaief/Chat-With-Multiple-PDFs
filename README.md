@@ -6,7 +6,7 @@ It processes your PDFs, embeds them, stores them in a vector database, and answe
 
 # 🚀 Features
 
-📄 Upload multiple PDF documents
+📄 Upload multiple PDF documents\n
 🔍 Automatic PDF text extraction
 ✂️ Text chunking for efficient embedding
 🤖 Embeddings using hkunlp/instructor-xl
